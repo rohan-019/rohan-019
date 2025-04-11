@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rohan-019
-- 👀 I’m interested in Open
+- 👀 I’m interested in Open Source, Web Development, and building impactful software projects
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Open source Softwares
 - 📫 How to reach me email - rohan18126@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He / Him
 
 <!---
 rohan-019/rohan-019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
